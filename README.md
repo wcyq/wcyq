@@ -12,3 +12,5 @@ I'm a software engineer with interests in project management, graphics, artifici
 
 Currently and mainly using Zig for experimentation and starting new projects.
 Most personal projects, including the public ones, are focused on graphics/graphical applications or artificial intelligence.
+
+![Metrics](/github-metrics.svg)
