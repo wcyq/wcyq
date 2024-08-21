@@ -1,4 +1,4 @@
-[Personal website (under construction): (wcyq.github.io)](wcyq.github.io)
+[Personal website (under construction): (wcyq.github.io)](https://wcyq.github.io)
 
 Hi, I'm Connor Yates.
 
